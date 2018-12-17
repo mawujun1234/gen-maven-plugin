@@ -23,6 +23,7 @@ import org.apache.maven.plugins.annotations.Mojo;
 				</executions>
 			</plugin>
 		</plugins>
+		或者执行命令 gen:genmt
 
  * @author admin
  *
